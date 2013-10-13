@@ -1,0 +1,11 @@
+var sInstance = '"eyJpbnN0YW5jZUlkIjoiMTMyYzY0ZmYtNzA2OS1mOWYxLTZmZTQtNjBiODgyNzRhMWY2Iiwic2lnbkRhdGUiOiIyMDEzLTEwLTEyVDEwOjAzOjUzLjk2MS0wNTowMCIsInVpZCI6ImJiNzhjYzljLTU2NTktNDUzYS1iYmY3LWNjMTA2MmRkOWM5ZCIsInBlcm1pc3Npb25zIjoiT1dORVIiLCJpcEFuZFBvcnQiOiI4OC4xMTkuOTUuMjI5LzIzNTA1IiwidmVuZG9yUHJvZHVjdElkIjpudWxsLCJkZW1vTW9kZSI6ZmFsc2V9"';
+
+
+function get(sInstance){
+decoded=atob(sInstance)
+
+}
+
+function l(s){
+    console.log && console.log(s)
+}

@@ -1,0 +1,9 @@
+/stylesheets/*.json
+.DS_Store
+desktop.ini
+*.ipr
+*.iws
+*.iml
+.idea/
+node_modules/
+target/

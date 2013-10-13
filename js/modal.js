@@ -1,0 +1,1 @@
+$("a[rel*=leanModal]").leanModal();
